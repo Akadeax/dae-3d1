@@ -1,1 +1,13 @@
+# temp files
 *.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+# export files
+*.mtl
+*.obj
+*.fbx
